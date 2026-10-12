@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I'm currently working on Anime Simulator (a Pet Simulator-style Roblox game) and Mind Bridge, a student mental health support web app<br>🌱 I'm currently learning Luau, full-stack web development, and networking basics<br>🤝 I'm looking for help with scaling Roblox game systems securely<br>👯 I'm looking to collaborate on Roblox games and student-focused web projects<br>🎓 Student at USA Iloilo, building things on the side<br>⚡ Fun fact: I like turning anime ideas into playable games
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/OddyseusSarmiento) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__oddyseus__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kervinsarmiento2.0@gmail.com)
 
